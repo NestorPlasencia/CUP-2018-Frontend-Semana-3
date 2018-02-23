@@ -1,0 +1,17 @@
+.main {
+	display: flex;
+	padding-left: 3em;
+	padding-right: 3em;
+	justify-content: flex-start;
+	padding-bottom: 3em;
+	padding-top: 3em;
+}
+
+.aside {
+	width: 30%;
+	padding-right: 3em
+}
+
+.content {
+	width: 60%;
+}
